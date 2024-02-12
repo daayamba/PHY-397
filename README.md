@@ -17,3 +17,25 @@ To run the code, you need:
 
 Python (version 3.x)
 Matplotlib (for plotting)
+
+
+# Parameters
+Adjust the parameters in the script to customize the simulation:
+
+K: Thermal conductivity of the solid
+A: Surface area of the solid
+d: Thickness of the solid
+T_e: External temperature
+T_o: Initial temperature
+dt: Time step for the simulation
+t_final: Final time for the simulation
+Results
+The script generates two plots:
+
+# Temperature as a function of time: 
+Observes how the temperature of the solid changes over the specified time period.
+
+# Temperature Change as a function of Heat Input: 
+Investigates the relationship between different heat inputs and the resulting temperature changes.
+
+# The specific heat capacity (Cp/v) is calculated by extracting the slope of the second plot.
