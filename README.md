@@ -14,8 +14,6 @@ Introduction
 
 Requirements
 
-Usage
-
 Parameters
 
 Results
