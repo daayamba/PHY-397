@@ -1,11 +1,12 @@
 # PHY 397
-# Submission of assignment
+# Submission of assignments
 # Group members:
 1. David Ayamba
 2. Moses Kukubor
 3. Benjamin Ofori
 4. Joshua Odartei
 5. Julius Blaboe
+   # Assignment
 # Heat Transfer Simulation
 This repository contains Python code for simulating heat transfer in a solid using a numerical approach. 
 The simulation is based on a simple heat transfer equation, and it calculates the temperature of the solid over time.
@@ -59,3 +60,6 @@ Observes how the temperature of the solid changes over the specified time period
 Investigates the relationship between different heat inputs and the resulting temperature changes.
 
 # The specific heat capacity (Cp/v) is calculated by extracting the slope of the second plot.
+
+# Python 
+Differences between mutable and immutable data
