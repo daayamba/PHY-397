@@ -5,6 +5,7 @@
 2. Moses Kukubor
 3. Benjamin Ofori
 4. Joshua Odartei
+5. Julius Blaboe
 # Heat Transfer Simulation
 This repository contains Python code for simulating heat transfer in a solid using a numerical approach. 
 The simulation is based on a simple heat transfer equation, and it calculates the temperature of the solid over time.
